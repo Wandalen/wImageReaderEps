@@ -1,5 +1,5 @@
 
-# module::ImageReaderEps - Experimental [![Status](https://github.com/Wandalen/wImageReaderEps/workflows/Test/badge.svg)](https://github.com/Wandalen/wImageReaderEps/actions?query=workflow%3ATest)
+# module::ImageReaderEps [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental) [![Status](https://github.com/Wandalen/wImageReaderEps/workflows/Test/badge.svg)](https://github.com/Wandalen/wImageReaderEps/actions?query=workflow%3ATest)
 
 ___
 
