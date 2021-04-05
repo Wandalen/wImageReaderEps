@@ -63,8 +63,8 @@ path:
       raw: compiled
       content: prime
   npm.proto.entry:
-    - /pro/module/wImageReaderEps/proto/wtools/Tools.s
-    - /pro/module/wImageReaderEps/proto/node_modules/wimagereadereps
+    - proto/wtools/Tools.s
+    - proto/node_modules/wimagereadereps
 reflector:
   reflect.proto:
     inherit: predefined.*
